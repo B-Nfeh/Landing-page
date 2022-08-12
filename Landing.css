@@ -111,15 +111,11 @@ button.blue-btn{
     text-align: start;
     align-items: flex-start;
     justify-content: space-around;
-    /* border: 2px solid green;  */
- 
  }
  .space{
    display: flex;
    justify-content: center;
    padding: 0.6rem;
-  
-   /* margin: 0 auto; */
  }
  .underline{
    margin: 0.4rem 0.7rem;
@@ -134,14 +130,12 @@ button.blue-btn{
  .row{
 flex: 33.3%;
 padding: 2px;
-
  }
  .p-text{
    display: inline-block;
    margin: 10 20px 10 20px;
    line-height: 1rem;
    color: #2D353D;
-   /* font-weight: bold; */
    width: 12rem;
    font-size: 14px;
  }
@@ -158,67 +152,8 @@ padding: 2px;
       box-sizing: border-box;
       background-color: #F7F7F7;
       }
-
-   .container{
-  width: 100%;
-      /* grid-template-columns: 1fr;
-      justify-items: center; */
-  }
-  .nav-section{
-   width: 100%;
-   /* display: flex;
-   flex-direction: row; */
-   display: grid;
-   justify-content: space-between;
-   grid-template-rows: repeat(3 1fr);
-   justify-content: space-evenly;
-   font-size: 10px;
-   margin: 0;
-   padding: 0;
-      border: 1px solid red;
-  }
-   a{
-  display: inline-block;
-  padding: 0;
-  margin: 0;
-  width: auto;
-  font-size: 10px;
-  border: 1px solid blue;
-  text-align: left;
-  }
-  .image-container{
-   /* display: grid;
-   grid-template-rows: 1fr;
-   width: 100%;
-  align-self: center;
-  justify-content: center; */
-  display: inline-block;
-  display: flex;
-  flex-direction: row;
-  width: 100%;
-  margin: 0 auto;
-  }
-  .image-container div{
-
-  }
-  .row{
-   width: 30%; 
-    height: auto;
-    /* font-size: 4px; */
-    line-height: 0.1em;
-   border: 1px solid green;
-  }
-  .p-text{
-   font-size: 8px;
-  }
-  img{
-height: 65px;
-width: auto;
-  }
- }
- 
-
- 
+// should finish up much later
+  
 
 
  
